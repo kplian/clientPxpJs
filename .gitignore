@@ -1,0 +1,36 @@
+#################
+# os files
+#################
+desktop.ini
+
+#################
+# merge files
+#################
+*.orig
+
+#################
+# merge files
+#################
+*.bak
+
+#################
+# MS Office
+# NO DOCUMENTATION IN GIT
+#################
+*.doc
+*.docx
+docs/
+*.html
+.gitattributes
+.idea
+.project
+.settings
+node_modules/
+.babelrc
+.idea
+-multilnst
+.project
+*.sh
+/.vscode
+.vscode
+/js_css_src/package-lock.json
